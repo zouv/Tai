@@ -362,3 +362,10 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 .vscode/settings.json
+
+# zdev
+packages
+ReleasePackage
+
+
+
